@@ -26,3 +26,5 @@ orchestration, browser automation, verification loops, and developer tooling.
 
 I value focused, test-backed changes, clear operational boundaries, and
 responsive collaboration with maintainers.
+
+<!-- profile-readme -->
