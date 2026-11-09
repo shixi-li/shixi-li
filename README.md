@@ -25,4 +25,4 @@ The WebdriverIO team offered me a contributor stipend for fixing how driver setu
 
 ## Contribution history
 
-In 2026, I authored 61 merged pull requests across 25 public repositories. [Browse my 2026 merged PRs](https://github.com/search?type=pullrequests&q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ashixi-li+merged%3A2026-01-01..2026-12-31)
+71 merged pull requests across 26 public repositories. [Browse all merged PRs](https://github.com/search?type=pullrequests&q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ashixi-li)
