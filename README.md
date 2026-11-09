@@ -15,7 +15,7 @@ The WebdriverIO team offered me a contributor stipend for fixing how driver setu
 
 **Harnesses and verification**
 
-- **loop-engineering** — Made PR automation distinguish missing checks from passing checks. Exposed a public lock API for coordinating worktree operations. [#372](https://github.com/cobusgreyling/loop-engineering/pull/372) · [#407](https://github.com/cobusgreyling/loop-engineering/pull/407)
+- **loop-engineering** — Contributed [12 merged PRs in 2026](https://github.com/search?type=pullrequests&q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ashixi-li+merged%3A2026-01-01..2026-12-31+repo%3Acobusgreyling%2Floop-engineering) across CI reliability, worktree tooling, tests, and documentation. Made PR automation distinguish missing checks from passing checks. Exposed a public lock API for coordinating worktree operations. [#372](https://github.com/cobusgreyling/loop-engineering/pull/372) · [#407](https://github.com/cobusgreyling/loop-engineering/pull/407)
 
 **MCP and model tooling**
 
@@ -25,4 +25,4 @@ The WebdriverIO team offered me a contributor stipend for fixing how driver setu
 
 ## Contribution history
 
-71 merged pull requests across 26 public repositories as of November 9, 2026. [Browse all merged PRs](https://github.com/search?type=pullrequests&q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ashixi-li)
+In 2026, I authored 61 merged pull requests across 25 public repositories. [Browse my 2026 merged PRs](https://github.com/search?type=pullrequests&q=is%3Apr+is%3Amerged+is%3Apublic+author%3Ashixi-li+merged%3A2026-01-01..2026-12-31)
