@@ -28,3 +28,5 @@ I value focused, test-backed changes, clear operational boundaries, and
 responsive collaboration with maintainers.
 
 <!-- profile-readme -->
+
+<!-- Profile README refresh -->
